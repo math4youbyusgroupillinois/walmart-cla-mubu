@@ -182,8 +182,8 @@ Name (print):  Eric Hilary Smith
 
 Github Username:  erichilarysmithsr
 
-Email:
+Email:  erichilarysmithsr@gmail.com
 
-Address:
+Address:  4547 West Barry Avenue, Unit B, Chicago, IL 60641
 
-Country:
+Country:  United States of America
