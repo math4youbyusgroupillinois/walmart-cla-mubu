@@ -172,15 +172,15 @@ this WCA. No modification, amendment or waiver of any provision of this WCA
 shall be effective unless in writing and signed by the party against whom the
 modification, amendment, or waiver is to be asserted.
 
-Individual Contributor Signature:
+Individual Contributor Signature: Eric Hilary Smith
 
-Signature:
+Signature: Eric Hilary Smith
 
-Date:
+Date: 03/18/2026
 
-Name (print):
+Name (print):  Eric Hilary Smith
 
-Github Username:
+Github Username:  erichilarysmithsr
 
 Email:
 
